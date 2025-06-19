@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "nome": "Vestido Floral",
+      "foto": "B1.jpg",
+      "descricao": "Vestido floral com tecido leve e confortável",
+      "categoria": "vestidos",
+      "status": "Disponível"
+    },
+    {
+      "id": 2,
+      "nome": "Blusa Básica",
+      "foto": "B2.jpg",
+      "descricao": "Blusa básica em algodão, versátil e confortável",
+      "categoria": "blusas",
+      "status": "Disponível"
+    },
+    {
+      "id": 3,
+      "nome": "Calça Jeans",
+      "foto": "B3.jpg",
+      "descricao": "Calça jeans skinny, modelagem moderna",
+      "categoria": "calcas",
+      "status": "Disponível"
+    },
+    {
+      "id": 4,
+      "nome": "Vestido Elegante",
+      "foto": "B4.jpg",
+      "descricao": "Vestido elegante para ocasiões especiais",
+      "categoria": "vestidos",
+      "status": "Disponível"
+    },
+    {
+      "id": 5,
+      "nome": "Blusa Casual",
+      "foto": "B5.jpg",
+      "descricao": "Blusa casual para o dia a dia",
+      "categoria": "blusas",
+      "status": "Disponível"
+    }
+]
+  
